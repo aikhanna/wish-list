@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>ignore</disabled>
+        <field>item</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-22 05:41:58</sys_created_on>
+        <sys_data_policy display_value="Sets the Item field to mandatory">5f17b1b82fa9301037e05e072799b674</sys_data_policy>
+        <sys_id>d317b1b82fa9301037e05e072799b678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="Wish List" source="x_659644_wish_list">3906b5782fa9301037e05e072799b6be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">3906b5782fa9301037e05e072799b6be</sys_scope>
+        <sys_update_name>sys_data_policy_rule_d317b1b82fa9301037e05e072799b678</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-22 05:41:58</sys_updated_on>
+        <table>x_659644_wish_list_wish_item</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">3906b5782fa9301037e05e072799b6be</application>
+        <file_path/>
+        <instance_id>c1b8fee4dbfb1b8cff27d5b0cf961994</instance_id>
+        <instance_name>dev68994</instance_name>
+        <name>sys_data_policy_rule_d317b1b82fa9301037e05e072799b678</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>item</field><mandatory>true</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-22 05:41:58</sys_created_on><sys_data_policy display_value="Sets the Item field to mandatory">5f17b1b82fa9301037e05e072799b674</sys_data_policy><sys_id>d317b1b82fa9301037e05e072799b678</sys_id><sys_mod_count>0</sys_mod_count><sys_name>item</sys_name><sys_package display_value="Wish List" source="x_659644_wish_list">3906b5782fa9301037e05e072799b6be</sys_package><sys_policy/><sys_scope display_value="Wish List">3906b5782fa9301037e05e072799b6be</sys_scope><sys_update_name>sys_data_policy_rule_d317b1b82fa9301037e05e072799b678</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-22 05:41:58</sys_updated_on><table>x_659644_wish_list_wish_item</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>-1887452207</payload_hash>
+        <record_name>item</record_name>
+        <reverted_from/>
+        <source>b906b5782fa9301037e05e072799b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-22 05:41:58</sys_created_on>
+        <sys_id>9b17b1b82fa9301037e05e072799b67a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17accbc1cd40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-22 05:41:58</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>d317b1b876a93010dde52969ad99dd7a</update_guid>
+        <update_guid_history>d317b1b876a93010dde52969ad99dd7a:-1887452207</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-22 06:27:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>937307783b09412097dfce3f0fcc9900</sys_id>
+        <sys_metadata>d317b1b82fa9301037e05e072799b678</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="Wish List" source="x_659644_wish_list">3906b5782fa9301037e05e072799b6be</sys_package>
+        <sys_parent display_value="">5f17b1b82fa9301037e05e072799b674</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">3906b5782fa9301037e05e072799b6be</sys_scope>
+        <sys_scope_delete display_value="">0b0ee69f4f5945148fa76d1502cf0690</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_d317b1b82fa9301037e05e072799b678</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_d317b1b82fa9301037e05e072799b678">9b17b1b82fa9301037e05e072799b67a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-22 06:27:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
